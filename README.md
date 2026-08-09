@@ -16,7 +16,7 @@
 ## 👩🏻‍💻 About Me
 
 ```json
-yasmine = {
+yasmen = {
     "role"      : "Data Analyst",
     "background": "Bioinformatics & Business Intelligence",
     "tools"     : ["Power BI", "SQL", "Excel", "Python", "DAX", "Power Query"],

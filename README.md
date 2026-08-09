@@ -66,15 +66,6 @@ yasmine = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF" width="38%"/>
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">

@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131A22,100:FF9900&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Yasmine%20Saber&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131A22,100:FF9900&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Yasmen%20Saber&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Excel;Turning+Raw+Data+Into+Business+Decisions;Bioinformatics+Background+%E2%80%A2+BI+Focused" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Excel;Turning+Raw+Data+Into+Business+Decisions;Bioinformatics+Background+%E2%80%A2+BI+Focused" alt="Typing SVG"/>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YasmenSaber&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YasmenSaber?color=131A22&style=for-the-badge&label=FOLLOWERS&logo=github)
 
 </div>
 
@@ -15,7 +12,7 @@
 
 ## 👩🏻‍💻 About Me
 
-```json
+```python
 yasmine = {
     "role"      : "Data Analyst",
     "background": "Bioinformatics & Business Intelligence",
@@ -24,62 +21,29 @@ yasmine = {
     "learning"  : "Advanced Power BI, SQL & Python for Analytics",
     "available" : "Open to Data Analyst & BI roles ✅"
 }
-```
-
-🚀 Passionate about building interactive dashboards, analyzing business performance, and creating data-driven solutions that support better decision-making.
-
----
-
-## 🛠 Tech Stack
-
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-131A22?style=for-the-badge&logo=powerbi&logoColor=FF9900)
-![SQL](https://img.shields.io/badge/SQL-FF9900?style=for-the-badge&logo=mysql&logoColor=131A22)
-![Excel](https://img.shields.io/badge/Excel-131A22?style=for-the-badge&logo=microsoftexcel&logoColor=FF9900)
-![Python](https://img.shields.io/badge/Python-FF9900?style=for-the-badge&logo=python&logoColor=131A22)
-![DAX](https://img.shields.io/badge/DAX-131A22?style=for-the-badge&logo=databricks&logoColor=FF9900)
-![Power Query](https://img.shields.io/badge/Power%20Query-FF9900?style=for-the-badge&logo=powerquery&logoColor=131A22)
+<img src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF&count_private=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF&langs_count=8" width="38%"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tools | Description |
-|---|---|---|
-| 🟧 **Amazon Customer Growth & Retention Dashboard** | Power BI • DAX • Power Query • Cohort Analysis | Interactive dashboard analyzing customer growth, acquisition, retention, and cohort performance across 2020–2024. <br/>🔗 [View Project](https://github.com/YasmenSaber/Amazon-Customer-Growth-Retention-PowerBI) |
-| 🛒 **Hyper Market Sales Dashboard** | Power BI • DAX • Power Query • What-If Analysis | Sales performance, customer behavior, product performance, and regional analysis with an advanced What-If simulation page. <br/>🔗 [View Project](https://github.com/YasmenSaber/HyperMarket-sales-dashboard-powerbi) |
-| 📞 **Salla Call Center Analysis** | Power BI • DAX • Power Query | 5-page dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality. <br/>🔗 [View Project](https://github.com/YasmenSaber/salla-call-center-analysis-powerbi) |
-| 👟 **Adidas Sales Dashboard** | Power BI • DAX • Power Query | Sales performance, profitability, products, regions, and sales channels analysis. <br/>🔗 [View Project](https://github.com/YasmenSaber/Adidas-Sales-Dashboard) |
-
----
-
-## 🎓 Certifications
-
-| Certification | Status |
-|---|:---:|
-| 🎓 Faculty of Science – Bioinformatics Graduate | ✅ |
-| 🎓 NTI – Data Analysis Graduate | ✅ |
-| 📚 Data Analysis Diploma – Mazen Analytics | 🔄 In Progress |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF" width="38%"/>
-
-</div>
-
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmenSaber&hide_border=true&background=131A22&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FFFFFF&dates=B8BCC2" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&bg_color=131A22&color=FF9900&line=FF9900&point=FFFFFF&hide_border=true" width="100%"/>
 
@@ -91,11 +55,34 @@ yasmine = {
 
 <div align="center">
 
-![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FF9900?style=flat-square&logoColor=131A22)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-131A22?style=flat-square&logoColor=FF9900)
-![KPI Design](https://img.shields.io/badge/KPI%20Design-FF9900?style=flat-square&logoColor=131A22)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-131A22?style=flat-square&logoColor=FF9900)
-![Business Insights](https://img.shields.io/badge/Business%20Insights-FF9900?style=flat-square&logoColor=131A22)
+### 📊 Data Analysis
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-131A22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Analysis-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cohort%20Analysis-131A22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retention%20Analysis-FF9900?style=for-the-badge"/>
+
+### 📈 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-131A22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Insights-131A22?style=for-the-badge"/>
+
+### 🗄️ SQL
+
+<img src="https://img.shields.io/badge/Joins-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTEs-131A22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Window%20Functions-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ranking-131A22?style=for-the-badge"/>
+
+### 🐍 Python
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 </div>
 
@@ -116,42 +103,51 @@ yasmine = {
 
 <table>
 <tr>
+
 <td valign="top" width="25%">
 
 **📊 Power BI Dashboards**
+
 - Executive Dashboards
 - KPI Tracking
 - Interactive Reports
 - Performance Analysis
 
 </td>
+
 <td valign="top" width="25%">
 
 **📈 Data Analysis**
+
 - Microsoft Excel
 - SQL Queries
 - Python Analysis
 - Data Transformation
 
 </td>
+
 <td valign="top" width="25%">
 
 **📉 Business Intelligence**
+
 - Data Modeling
 - Power Query
 - DAX Measures
 - Dashboard Development
 
 </td>
+
 <td valign="top" width="25%">
 
 **📁 Documentation**
+
 - Business Recommendations
 - Executive Summaries
 - Interactive Visualizations
 - Clean & Organized Reports
 
 </td>
+
 </tr>
 </table>
 
@@ -159,14 +155,23 @@ yasmine = {
 
 ## 💼 Services
 
-✔️ Power BI Dashboard Development &nbsp;&nbsp; ✔️ Interactive Business Reports &nbsp;&nbsp; ✔️ Data Cleaning & Transformation
-✔️ KPI & Executive Dashboard Design &nbsp;&nbsp; ✔️ Excel Data Analysis &nbsp;&nbsp; ✔️ SQL Data Analysis &nbsp;&nbsp; ✔️ Business Insights & Reporting
+✔️ Power BI Dashboard Development  
+✔️ Interactive Business Reports  
+✔️ Data Cleaning & Transformation  
+✔️ KPI & Executive Dashboard Design  
+✔️ Excel Data Analysis  
+✔️ SQL Data Analysis  
+✔️ Business Insights & Reporting
 
 ---
 
 ## 🤝 Open To
 
-💼 Entry-Level Data Analyst Roles &nbsp;•&nbsp; 📊 Business Intelligence Opportunities &nbsp;•&nbsp; 🌍 Remote Opportunities &nbsp;•&nbsp; 🏢 On-site Opportunities &nbsp;•&nbsp; 🚀 Freelance Projects
+💼 Entry-Level Data Analyst Roles  
+📊 Business Intelligence Opportunities  
+🌍 Remote Opportunities  
+🏢 On-site Opportunities  
+🚀 Freelance Projects
 
 ---
 
@@ -174,9 +179,17 @@ yasmine = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-131A22?style=for-the-badge&logo=linkedin&logoColor=FF9900)](https://www.linkedin.com/in/yasmen-saber)
-[![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=131A22)](mailto:yasmensaber04@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-131A22?style=for-the-badge&logo=whatsapp&logoColor=FF9900)](https://wa.me/201064434367)
+<a href="https://www.linkedin.com/in/yasmen-saber/">
+<img src="https://img.shields.io/badge/LinkedIn-Yasmen%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yasmensaber04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YasmenSaber">
+<img src="https://img.shields.io/badge/GitHub-YasmenSaber-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 

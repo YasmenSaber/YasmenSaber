@@ -70,8 +70,8 @@ yasmine = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF" width="38%"/>
 
 </div>
 
@@ -79,7 +79,7 @@ yasmine = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmenSaber&hide_border=true&background=131A22&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmenSaber&hide_border=true&background=131A22&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FFFFFF&dates=B8BCC2" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenSaber&bg_color=131A22&color=FF9900&line=FF9900&point=FFFFFF&hide_border=true" width="100%"/>
 

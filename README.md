@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131A22,100:FF9900&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Yasmine%20Saber&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131A22,100:FF9900&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Yasmen%20Saber&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Excel;Turning+Raw+Data+Into+Business+Decisions;Bioinformatics+Background+%E2%80%A2+BI+Focused" alt="Typing SVG" />
 

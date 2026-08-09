@@ -70,7 +70,7 @@ yasmine = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&count_private=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YasmenSaber&show_icons=true&hide_border=true&bg_color=131A22&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenSaber&layout=compact&hide_border=true&bg_color=131A22&title_color=FF9900&text_color=FFFFFF" width="38%"/>
 
 </div>
@@ -174,14 +174,10 @@ yasmine = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-131A22?style=for-the-badge&logo=linkedin&logoColor=FF9900)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=131A22)](mailto:YOUR-EMAIL@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-131A22?style=for-the-badge&logo=whatsapp&logoColor=FF9900)](https://wa.me/YOUR-NUMBER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-131A22?style=for-the-badge&logo=linkedin&logoColor=FF9900)](https://www.linkedin.com/in/yasmen-saber)
+[![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=131A22)](mailto:yasmensaber04@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-131A22?style=for-the-badge&logo=whatsapp&logoColor=FF9900)](https://wa.me/201064434367)
 
-</div>
-
-<div align="center">
-<sub>⚠️ استبدلي روابط LinkedIn / Email / WhatsApp فوق بالبيانات الحقيقية بتاعتك قبل النشر.</sub>
 </div>
 
 ---

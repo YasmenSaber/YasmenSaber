@@ -49,6 +49,7 @@ yasmen = {
 
 | Project | Tools | Description |
 |---|---|---|
+| 💼 **Business Analytics & Revenue Optimization** | SQL Server • Python • Pandas • Matplotlib | end-to-end analysis linking MS SQL Server databases with Python to extract strategic business insights and pricing model optimization. <br/>🔗 [View Project](https://github.com/YasmenSaber/Business-Analytics-SQL-Python) |
 | 🟧 **Amazon Customer Growth & Retention Dashboard** | Power BI • DAX • Power Query • Cohort Analysis | Interactive dashboard analyzing customer growth, acquisition, retention, and cohort performance across 2020–2024. <br/>🔗 [View Project](https://github.com/YasmenSaber/Amazon-Customer-Growth-Retention-PowerBI) |
 | 🛒 **Hyper Market Sales Dashboard** | Power BI • DAX • Power Query • What-If Analysis | Sales performance, customer behavior, product performance, and regional analysis with an advanced What-If simulation page. <br/>🔗 [View Project](https://github.com/YasmenSaber/HyperMarket-sales-dashboard-powerbi) |
 | 📞 **Salla Call Center Analysis** | Power BI • DAX • Power Query | 5-page dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality. <br/>🔗 [View Project](https://github.com/YasmenSaber/salla-call-center-analysis-powerbi) |

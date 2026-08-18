@@ -16,14 +16,13 @@
 ## 👩🏻‍💻 About Me
 
 ```json
-yasmen = {
-    "role"      : "Data Analyst",
-    "background": "Bioinformatics & Business Intelligence",
-    "tools"     : ["Power BI", "SQL", "Excel", "Python", "DAX", "Power Query"],
-    "focus"     : "Interactive Dashboards & Data-Driven Decisions",
-    "learning"  : "Advanced Power BI, SQL & Python for Analytics",
-    "available" : "Open to Data Analyst & BI roles ✅"
-}
+const yasmen = {
+  role: "Data Analyst | BI Developer 📊",
+  background: "Bioinformatics & Business Analytics 🧬",
+  techStack: ["Power BI", "SQL Server", "Python", "Excel", "DAX"],
+  focus: "Turning Raw Data Into Revenue-Driven Decisions 🎯",
+  status: "Open to Data Analyst & BI opportunities ✅"
+};
 ```
 
 🚀 Passionate about building interactive dashboards, analyzing business performance, and creating data-driven solutions that support better decision-making.

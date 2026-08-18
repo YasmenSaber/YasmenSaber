@@ -34,10 +34,9 @@
   "learning": "Advanced Power BI, SQL & Python for Analytics",
   "availability": "Open to Data Analyst & BI Opportunities"
 }
+### الجزء 2/4
 
-
----
-
+```markdown
 ## 🎓 Education & Certifications
 
 | Education / Certification | Status |
@@ -66,15 +65,15 @@
 
 <div align="center">
 
-![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FF9900?style=flat-square&logoColor=131A22)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FF9900?style=flat-square)
 
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-131A22?style=flat-square&logoColor=FF9900)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-131A22?style=flat-square)
 
-![KPI Design](https://img.shields.io/badge/KPI%20Design-FF9900?style=flat-square&logoColor=131A22)
+![KPI Design](https://img.shields.io/badge/KPI%20Design-FF9900?style=flat-square)
 
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-131A22?style=flat-square&logoColor=FF9900)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-131A22?style=flat-square)
 
-![Business Insights](https://img.shields.io/badge/Business%20Insights-131A22?style=flat-square&logoColor=FF9900)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-FF9900?style=flat-square)
 
 </div>
 
@@ -94,14 +93,13 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-131A22?style=for-the-badge&logo=pandas&logoColor=FF9900)
 
-![DAX](https://img.shields.io/badge/DAX-FF9900?style=for-the-badge&logoColor=131A22)
+![DAX](https://img.shields.io/badge/DAX-FF9900?style=for-the-badge)
 
-![Power Query](https://img.shields.io/badge/Power%20Query-131A22?style=for-the-badge&logoColor=FF9900)
+![Power Query](https://img.shields.io/badge/Power%20Query-131A22?style=for-the-badge)
 
 </div>
 
----
-## 🎯 Currently Learning
+---## 🎯 Currently Learning
 
 - 📊 Advanced Power BI Dashboard Development
 - 📈 Business Intelligence & Reporting
@@ -195,8 +193,7 @@
 
 </div>
 
----
-## 📬 Connect With Me
+---## 📬 Connect With Me
 
 <div align="center">
 

@@ -36,7 +36,6 @@
 }
 
 
-```markdown
 ---
 
 ## 🎓 Education & Certifications

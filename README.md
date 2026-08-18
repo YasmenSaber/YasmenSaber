@@ -15,14 +15,16 @@
 
 ## 👩🏻‍💻 About Me
 
-```json
-const yasmen = {
-  role: "Data Analyst | BI Developer 📊",
-  background: "Bioinformatics & Business Analytics 🧬",
-  techStack: ["Power BI", "SQL Server", "Python", "Excel", "DAX"],
-  focus: "Turning Raw Data Into Revenue-Driven Decisions 🎯",
-  status: "Open to Data Analyst & BI opportunities ✅"
-};
+# 👩🏻‍💻 Developer & Analyst Profile
+
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Yasmen Saber"
+        self.role = "Data Analyst & BI Developer"
+        self.education = "Bioinformatics Graduate 🧬"
+        self.stack = ["Power BI", "MS SQL Server", "Python", "Excel"]
+        self.mission = "Transforming Data into Business Decisions 🚀"
+        self.status = "Available for Work ✅"
 ```
 
 🚀 Passionate about building interactive dashboards, analyzing business performance, and creating data-driven solutions that support better decision-making.

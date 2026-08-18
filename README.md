@@ -15,16 +15,15 @@
 
 ## 👩🏻‍💻 About Me
 
-# 👩🏻‍💻 Developer & Analyst Profile
-
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Yasmen Saber"
-        self.role = "Data Analyst & BI Developer"
-        self.education = "Bioinformatics Graduate 🧬"
-        self.stack = ["Power BI", "MS SQL Server", "Python", "Excel"]
-        self.mission = "Transforming Data into Business Decisions 🚀"
-        self.status = "Available for Work ✅"
+```json
+yasmen = {
+    "role"      : "Data Analyst",
+    "background": "Bioinformatics & Business Intelligence",
+    "tools"     : ["Power BI", "SQL", "Excel", "Python", "DAX", "Power Query"],
+    "focus"     : "Interactive Dashboards & Data-Driven Decisions",
+    "learning"  : "Advanced Power BI, SQL & Python for Analytics",
+    "available" : "Open to Data Analyst & BI roles ✅"
+}
 ```
 
 🚀 Passionate about building interactive dashboards, analyzing business performance, and creating data-driven solutions that support better decision-making.
@@ -50,7 +49,7 @@ class DataAnalyst:
 
 | Project | Tools | Description |
 |---|---|---|
-| 💼 **Business Analytics & Revenue Optimization** | SQL Server • Python • Pandas • Matplotlib | end-to-end analysis linking MS SQL Server databases with Python to extract strategic business insights and pricing model optimization. <br/>🔗 [View Project](https://github.com/YasmenSaber/Business-Analytics-SQL-Python) |
+| 💼 **Business Intelligence & Revenue Analytics** | SQL Server • Python • Pandas • Matplotlib | 분석 إند-تو-إند يربط قواعد بيانات MS SQL Server بلغة بيثون لتحليل إيرادات واستراتيجيات تسعير الخدمات المهنية. <br/>🔗 [View Project](https://github.com/YasmenSaber/Business-Analytics-SQL-Python) |
 | 🟧 **Amazon Customer Growth & Retention Dashboard** | Power BI • DAX • Power Query • Cohort Analysis | Interactive dashboard analyzing customer growth, acquisition, retention, and cohort performance across 2020–2024. <br/>🔗 [View Project](https://github.com/YasmenSaber/Amazon-Customer-Growth-Retention-PowerBI) |
 | 🛒 **Hyper Market Sales Dashboard** | Power BI • DAX • Power Query • What-If Analysis | Sales performance, customer behavior, product performance, and regional analysis with an advanced What-If simulation page. <br/>🔗 [View Project](https://github.com/YasmenSaber/HyperMarket-sales-dashboard-powerbi) |
 | 📞 **Salla Call Center Analysis** | Power BI • DAX • Power Query | 5-page dashboard covering Executive Overview, Agent Performance, Call Performance, SLA & Quality. <br/>🔗 [View Project](https://github.com/YasmenSaber/salla-call-center-analysis-powerbi) |
@@ -182,3 +181,4 @@ class DataAnalyst:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:131A22&height=120&section=footer&text=Turning%20Data%20Into%20Decisions&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 </div>
+
